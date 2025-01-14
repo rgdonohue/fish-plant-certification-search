@@ -117,7 +117,7 @@ This project employed a two-phase approach to gather comprehensive certification
 - Explore machine learning for enhanced result parsing.
 
 ## License
-[MIT License](LICENSE)
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 For questions or support, please open an issue or contact the maintainers.
