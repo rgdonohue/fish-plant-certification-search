@@ -20,4 +20,3 @@ combined_info_df = pd.concat([combined_info_df, missing_rows], ignore_index=True
 combined_info_df = combined_info_df.drop_duplicates()
 combined_info_df.to_csv('../data/plants_updated_certification_and_info.csv', index=False)
 
-# %%
